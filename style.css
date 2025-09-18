@@ -90,7 +90,7 @@ span {
 
 .secound {
   text-align: center;
-  background-image: url(../images/2img.jpg);
+  background-image: url(../2img.jpg);
   background-size: cover;
   padding: 1px 0px;
   background-position: center;
@@ -164,7 +164,7 @@ span {
   text-align: center;
   float: left;
   margin-right: 120px;
-  background-image: url(../images/rdj\ copy.JPG);
+  background-image: url(../rdj\ copy.JPG);
   background-size: cover;
   width: 300px;
   height: 300px;
@@ -179,7 +179,7 @@ span {
 }
 .third-top2 {
   background-image: linear-gradient(rgba(0, 0, 0, 0.726), rgba(0, 0, 0, 0.682)),
-    url(../images/rdj\ copy.JPG);
+    url(../rdj\ copy.JPG);
   background-size: cover;
   float: left;
   width: 222px;
@@ -209,7 +209,7 @@ span {
 .third-top3 {
   text-align: center;
   float: right;
-  background-image: url(../images/rdj\ copy.JPG);
+  background-image: url(../rdj\ copy.JPG);
   background-size: cover;
   width: 300px;
   height: 300px;
@@ -360,7 +360,7 @@ span {
   color: gray;
 }
 .fifth {
-  background-image: url(../images/b.jpeg);
+  background-image: url(../b.jpeg);
   background-size: cover;
   background-position: center top;
   height: 500px;
@@ -696,3 +696,4 @@ span {
   align-items: center;
   width: 270px;
 }
+
